@@ -1,0 +1,160 @@
+﻿CloseDate,Opportunity Name,Amount,Stage,Account.BillingCity,Billing State/Province,Billing Country
+2021-10-03,Opp Brazil 1,"$109,997",Closed Won,Propriá,SE,Brazil
+2021-04-08,Opp Brazil 2,"$75,983",Closed Won,Aracaju,SE,Brazil
+2020-08-06,Opp Brazil 3,"$171,046",Closed Won,Queimada Nova,PI,Brazil
+2021-06-24,Opp Brazil 4,"$215,418",Closed Won,Teresina,PI,Brazil
+2020-12-12,Opp Brazil 5,"$63,841",Closed Won,Niterói,RJ,Brazil
+2021-12-21,Opp Brazil 6,"$46,025",Closed Won,Angra dos Reis,RJ,Brazil
+2020-04-03,Opp Brazil 7,"$201,181",Closed Won,Aracruz,ES,Brazil
+2020-11-01,Opp Brazil 8,"$169,863",Closed Won,Vitoria,ES,Brazil
+2021-04-10,Opp Brazil 9,"$190,939",Closed Won,Ouro Preto,MG,Brazil
+2021-08-05,Opp Brazil 10,"$151,712",Closed Won,Belo Horizonte,MG,Brazil
+2021-12-03,Opp Brazil 11,"$85,999",Closed Won,Chapecó,SC,Brazil
+2021-02-22,Opp Brazil 12,"$170,816",Closed Won,Joinville,SC,Brazil
+2021-03-26,Opp Brazil 13,"$67,082",Prospecting,Jundiaí,SP,Brazil
+2020-10-03,Opp Brazil 14,"$53,004",Prospecting,São Paulo,SP,Brazil
+2020-07-25,Opp Brazil 15,"$303,669",Prospecting,Aracati,CE,Brazil
+2021-03-15,Opp Brazil 16,"$64,252",Prospecting,Fortaleza,CE,Brazil
+2021-07-19,Opp Brazil 17,"$329,095",Prospecting,Porto Seguro,BA,Brazil
+2021-05-03,Opp Brazil 18,"$266,143",Prospecting,Salvador,BA,Brazil
+2020-12-20,Opp Brazil 19,"$313,438",Prospecting,Careiro,AM,Brazil
+2020-02-18,Opp Brazil 20,"$166,505",Prospecting,Manaus,AM,Brazil
+2021-07-09,Opp Brazil 23,"$98,674",Needs Analysis,Propriá,SE,Brazil
+2021-11-04,Opp Brazil 24,"$207,478",Needs Analysis,Aracaju,SE,Brazil
+2021-09-25,Opp Brazil 25,"$261,304",Needs Analysis,Queimada Nova,PI,Brazil
+2020-11-23,Opp Brazil 26,"$133,835",Needs Analysis,Teresina,PI,Brazil
+2021-06-04,Opp Brazil 27,"$332,593",Needs Analysis,Niterói,RJ,Brazil
+2020-08-24,Opp Brazil 28,"$252,007",Negotiation/Review,Angra dos Reis,RJ,Brazil
+2020-12-13,Opp Brazil 29,"$284,695",Negotiation/Review,Aracruz,ES,Brazil
+2021-03-12,Opp Brazil 30,"$191,464",Negotiation/Review,Vitoria,ES,Brazil
+2020-10-25,Opp Brazil 31,"$206,447",Negotiation/Review,Ouro Preto,MG,Brazil
+2020-03-18,Opp Brazil 32,"$189,706",Negotiation/Review,Belo Horizonte,MG,Brazil
+2021-09-17,Opp Brazil 33,"$151,642",Negotiation/Review,Chapecó,SC,Brazil
+2020-04-01,Opp Brazil 34,"$174,271",Negotiation/Review,Joinville,SC,Brazil
+2021-01-17,Opp Brazil 35,"$337,038",Closed Lost,Jundiaí,SP,Brazil
+2020-11-10,Opp Brazil 36,"$304,000",Closed Lost,São Paulo,SP,Brazil
+2021-11-14,Opp Brazil 37,"$117,399",Closed Lost,Aracati,CE,Brazil
+2021-05-02,Opp Brazil 38,"$337,421",Closed Lost,Fortaleza,CE,Brazil
+2020-08-08,Opp Brazil 39,"$212,609",Closed Lost,Porto Seguro,BA,Brazil
+2021-02-09,Opp Brazil 40,"$342,848",Qualification,Salvador,BA,Brazil
+2021-03-10,Opp Brazil 41,"$347,402",Qualification,Careiro,AM,Brazil
+2020-04-13,Opp Brazil 42,"$218,826",Qualification,Manaus,AM,Brazil
+2021-05-16,Opp 666,"$36,050",Closed Won,Campinas,SP,
+2020-05-16,Opp 667,"$51,553",Closed Won,Araraquara,SP,
+2020-06-16,Opp 668,"$66,048",Closed Won,Bauru,SP,
+2020-02-20,Opp 669,"$57,807",Prospecting,Presidente Prudente,SP,
+2021-10-14,Opp 670,"$55,596",Prospecting,Piracicaba,SP,
+2020-10-12,Opp 671,"$41,947",Prospecting,Atibaia,SP,
+2021-12-10,Opp 672,"$62,522",Prospecting,Santos,SP,
+2020-01-11,Opp 673,"$57,387",Prospecting,Itapetininga,SP,
+2021-04-14,Opp 674,"$52,461",Needs Analysis,Sorocaba,SP,
+2020-08-15,Opp 675,"$54,144",Needs Analysis,Itanhaém,SP,
+2021-10-14,Opp 676,"$63,517",Needs Analysis,Acarati,CE,
+2021-04-01,Opp 677,"$46,334",Needs Analysis,Iguatu,CE,
+2020-05-22,Opp 678,"$39,074",Needs Analysis,Aquiraz,CE,
+2021-06-18,Opp 679,"$35,210",Needs Analysis,Itapipoca,CE,
+2020-08-24,Opp 680,"$49,715",Closed Lost,Crato,CE,
+2021-03-02,Opp 681,"$67,017",Prospecting,Juazeiro do Norte,CE,
+2021-08-03,Opp 682,"$41,278",Closed Lost,Guarapari,ES,
+2020-08-25,Opp 683,"$64,603",Value Proposition,Vila Velha,ES,
+2020-11-16,Opp 684,"$40,028",Value Proposition,Anchieta,ES,
+2020-01-13,Opp 685,"$48,816",Value Proposition,Linhares,ES,
+2020-06-15,Opp 686,"$45,766",Value Proposition,Aracruz,ES,
+2020-10-06,Opp 687,"$53,332",Value Proposition,Colatina,ES,
+2020-06-15,Opp 688,"$42,140",Value Proposition,Duque de Caxias,RJ,
+2020-09-02,Opp 689,"$43,649",Value Proposition,Cabo Frio,RJ,
+2021-07-15,Opp 690,"$60,795",Value Proposition,Paraty,RJ,
+2021-07-15,Opp 691,"$45,151",Qualification,Nova Friburgo,RJ,
+2021-11-05,Opp 692,"$44,493",Qualification,Arraial do Cabo,RJ,
+2021-06-10,Opp 693,"$46,033",Qualification,Aruarama,RJ,
+2020-01-25,Opp 694,"$59,589",Qualification,Volta Redonda,RJ,
+2020-03-20,Opp 695,"$61,691",Qualification,Montes Claros,MG,
+2020-08-28,Opp 696,"$42,977",Qualification,Mariana,MG,
+2021-02-15,Opp 697,"$40,395",Qualification,Contagem,MG,
+2021-10-25,Opp 698,"$53,729",Qualification,Juiz de Fora,MG,
+2021-01-02,Opp 699,"$52,257",Qualification,Uberaba,MG,
+2020-02-02,Opp 700,"$52,257",Qualification,Sete Lagoas,MG,
+2021-05-16,Opp 999,"$101,426",Closed Won,Iguape,SP,
+2020-05-16,Opp 1000,"$77,183",Closed Won,Piedade,SP,
+2020-06-16,Opp 1001,"$397,773",Closed Won,Mogi das Cruzes,SP,
+2020-02-20,Opp 1002,"$384,947",Closed Won,Cunha,SP,
+2021-10-14,Opp 1003,"$303,192",Closed Won,Barretos,SP,
+2020-10-12,Opp 1004,"$230,191",Closed Won,Pereira Barreto,SP,
+2021-12-10,Opp 1005,"$341,030",Closed Won,Franca,SP,
+2020-01-11,Opp 1006,"$155,465",Closed Won,Platina,SP,
+2021-04-14,Opp 1007,"$265,669",Closed Won,Teodoro Sampaio,SP,
+2020-08-15,Opp 1008,"$287,565",Closed Won,Viradouro,SP,
+2021-10-14,Opp 1009,"$360,756",Closed Won,Eldorado,SP,
+2021-04-01,Opp 1010,"$392,267",Closed Won,Campos dos Goytacazes,RJ,
+2020-05-22,Opp 1011,"$163,033",Closed Won,Bom Jesus do Itabapoana,RJ,
+2021-06-18,Opp 1012,"$95,162",Closed Won,Itaperuna,RJ,
+2020-08-24,Opp 1013,"$285,089",Closed Won,Rio Claro,RJ,
+2021-03-02,Opp 1014,"$440,231",Closed Won,Itatiaia,RJ,
+2021-08-03,Opp 1015,"$361,964",Closed Won,Sapucaia,RJ,
+2020-08-25,Opp 1016,"$103,654",Closed Won,Rio Bonito,RJ,
+2020-11-16,Opp 1017,"$439,880",Closed Won,Carapebus,RJ,
+2020-01-13,Opp 1018,"$359,439",Closed Won,Natividade,RJ,
+2020-06-15,Opp 1019,"$169,967",Closed Won,Minas Novas,MG,
+2020-10-06,Opp 1020,"$131,112",Closed Won,Tiros,MG,
+2020-06-15,Opp 1021,"$231,984",Closed Won,Mutum,MG,
+2020-09-02,Opp 1022,"$291,715",Closed Won,Formiga,MG,
+2021-07-15,Opp 1023,"$314,740",Closed Won,Areado,MG,
+2021-07-15,Opp 1024,"$130,433",Closed Won,Carneirinho,MG,
+2021-11-05,Opp 1025,"$399,886",Closed Won,Manga,MG,
+2021-06-10,Opp 1026,"$432,569",Closed Won,Carlos Chagas,MG,
+2020-01-25,Opp 1027,"$68,631",Closed Won,Resplendor,MG,
+2020-03-20,Opp 1028,"$170,678",Closed Won,Correntina,BA,
+2020-08-28,Opp 1029,"$367,774",Closed Won,Lagoa Real,BA,
+2021-02-15,Opp 1030,"$135,047",Closed Won,Tucano,BA,
+2021-10-25,Opp 1031,"$79,566",Closed Won,Conde,BA,
+2021-01-02,Opp 1032,"$104,327",Closed Won,Jaborandi,BA,
+2020-02-02,Opp 1033,"$142,754",Closed Won,Mucuri,BA,
+2021-05-16,Opp 1034,"$441,097",Closed Won,Umburanas,BA,
+2020-05-16,Opp 1035,"$329,511",Closed Won,Formosa do Rio Preto,BA,
+2020-06-16,Opp 1036,"$167,809",Closed Won,Monte Santo,BA,
+2020-02-20,Opp 1037,"$210,854",Closed Won,Barra,BA,
+2021-10-14,Opp 1038,"$217,702",Closed Won,Montanha,ES,
+2020-10-12,Opp 1039,"$413,872",Closed Won,Ibiritama,ES,
+2021-12-10,Opp 1040,"$505,840",Closed Won,Mimoso do Sul,ES,
+2020-01-11,Opp 1041,"$116,026",Closed Won,Pancas,ES,
+2021-04-14,Opp 1042,"$69,194",Closed Won,Cariacica,ES,
+2020-08-15,Opp 1043,"$119,959",Closed Won,Presidente Kennedy,ES,
+2021-10-14,Opp 1044,"$168,434",Closed Won,Nova Russas,CE,
+2021-04-01,Opp 1045,"$447,346",Closed Won,Tabuleiro do Norte,CE,
+2020-05-22,Opp 1046,"$303,770",Closed Won,Quixeramobim,CE,
+2021-06-18,Opp 1047,"$79,910",Closed Won,Potiretama,CE,
+2020-08-24,Opp 1048,"$189,500",Closed Won,Carauari,AM,
+2021-03-02,Opp 1049,"$213,138",Closed Won,Boca do Acre,AM,
+2021-08-03,Opp 1050,"$251,405",Closed Won,Barcelos,AM,
+2020-08-25,Opp 1051,"$283,253",Closed Won,Atalaia do Norte,AM,
+2020-11-16,Opp 1052,"$287,018",Closed Won,Coari,AM,
+2020-01-13,Opp 1053,"$446,768",Closed Won,Barreirinha,AM,
+2020-06-15,Opp 1054,"$161,982",Closed Won,Itamarati,AM,
+2020-10-06,Opp 1055,"$56,538",Closed Won,Ipixuna,AM,
+2020-06-15,Opp 1056,"$130,567",Closed Won,Canto do Buriti,PI,
+2020-09-02,Opp 1057,"$167,338",Closed Won,Pimenteiras,PI,
+2021-08-24,Opp 1058,"$156,587",Proposal/Price Quote,Corrente,PI,
+2021-07-15,Opp 1059,"$352,238",Closed Won,Aroazes,PI,
+2021-11-05,Opp 1060,"$78,061",Closed Won,Pio IX,PI,
+2021-06-10,Opp 1061,"$109,586",Closed Won,Dirceu Arcoverde,PI,
+2020-01-25,Opp 1062,"$61,588",Closed Won,Guadalupe,PI,
+2020-03-20,Opp 1063,"$236,376",Closed Won,Currais,PI,
+2020-08-28,Opp 1064,"$393,591",Closed Won,Campo Belo do Sul,SC,
+2021-02-15,Opp 1065,"$140,742",Closed Won,Orleans,SC,
+2021-10-25,Opp 1066,"$224,230",Closed Won,Treze de Maio,SC,
+2021-01-02,Opp 1067,"$324,132",Closed Won,Tijucas,SC,
+2020-02-02,Opp 1068,"$391,607",Closed Won,Abelardo Luz,SC,
+2020-01-25,Opp 1069,"$398,171",Closed Won,Urubici,SC,
+2020-03-20,Opp 1070,"$190,127",Closed Won,Vitor Meireles,SC,
+2020-08-28,Opp 1071,"$184,895",Closed Won,Princesa,SC,
+2021-02-15,Opp 1072,"$195,855",Closed Won,Praia Grande,SC,
+2021-10-25,Opp 1073,"$310,095",Closed Won,Presidente Nereu,SC,
+2021-01-02,Opp 1074,"$217,193",Closed Won,Curitibanos,SC,
+2020-02-02,Opp 1075,"$423,054",Closed Won,Frei Paulo,SE,
+2020-01-25,Opp 1076,"$101,822",Closed Won,Porto da Folha,SE,
+2020-03-20,Opp 1077,"$202,749",Closed Won,Pacatuba,SE,
+2020-08-28,Opp 1078,"$407,152",Closed Won,Indiaroba,SE,
+2021-02-15,Opp 1079,"$438,024",Closed Won,Tobias Barreto,SE,
+2021-10-25,Opp 1080,"$344,386",Closed Won,Nossa Senhora Aparecida,SE,
+2021-01-02,Opp 1081,"$350,798",Closed Won,Boquim,SE,
+2020-02-02,Opp 1082,"$154,948",Closed Won,Carira,SE,

@@ -1,0 +1,63 @@
+HR Number,Game Date,Opponent Abbreviation,Opponent Name,Location,Pitcher,Exit Velocity,Launch Angle,Distance,Hit Direction,Air Density Estimate,Pitch Velocity,Pitch Type
+1,4/13/2022,TOR,Toronto Blue Jays,Home,"Berrios, Jose",108.4,27,413,Pull,0.92,91.9,Sinker
+2,4/22/2022,CLE,Cleveland Guardians,Home,"Morgan, Eli",112,34,397,Opposite,1.33,91,4-Seam Fastball
+3,4/22/2022,CLE,Cleveland Guardians,Home,"Tully, Tanner",112,19,364,Opposite,0.934,92.3,4-Seam Fastball
+4,4/26/2022,BAL,Baltimore Orioles,Home,"Wells, Alex",98.5,34,392,Pull,0.913,72.4,Curveball
+5,4/28/2022,BAL,Baltimore Orioles,Home,"Fry, Paul",113.6,23,415,Pull,0.891,83.5,Slider
+6,4/29/2022,KC,Kansas City Royals,Away,"Coleman, Dylan",105.4,34,389,Opposite,1.181,98.2,4-Seam Fastball
+7,5/1/2022,KC,Kansas City Royals,Away,"Lynch, Daniel",113.5,27,453,Straightaway,0.835,93.9,4-Seam Fastball
+8,5/1/2022,KC,Kansas City Royals,Away,"Staumont, Josh",106.8,35,395,Opposite,1.198,98,Sinker
+9,5/3/2022,TOR,Toronto Blue Jays,Away,"Manoah, Alek",114.9,25,427,Pull,0.954,96,4-Seam Fastball
+10,5/10/2022,TOR,Toronto Blue Jays,Home,"Romano, Jordan",112.5,31,414,Pull,1.168,84.1,Slider
+11,5/12/2022,CHW,Chicago White Sox,Away,"Burr, Ryan",114,25,456,Pull,0.753,94.9,4-Seam Fastball
+12,5/13/2022,CHW,Chicago White Sox,Away,"Velasquez, Vince",103.8,31,355,Opposite,1.348,93.3,4-Seam Fastball
+13,5/17/2022,BAL,Baltimore Orioles,Away,"Watkins, Spenser",105.5,29,410,Straightaway,0.914,91.6,4-Seam Fastball
+14,5/17/2022,BAL,Baltimore Orioles,Away,"Krehbiel, Joey",112.2,25,422,Straightaway,0.903,79,Slider
+15,5/22/2022,CHW,Chicago White Sox,Home,"Graveman, Kendall",111.1,28,431,Pull,0.927,97.2,Sinker
+16,5/23/2022,BAL,Baltimore Orioles,Home,"Lyles, Jordan",112,22,418,Straightaway,0.754,90.3,Sinker
+17,5/23/2022,BAL,Baltimore Orioles,Home,"Lyles, Jordan",103.1,32,405,Pull,0.945,79.6,Slider
+18,5/29/2022,TB,Tampa Bay Rays,Away,"Poche, Colin",107.4,31,420,Straightaway,0.968,91.3,4-Seam Fastball
+19,6/2/2022,LAA,Los Angeles Angels,Home,"Ohtani, Shohei",109.9,21,405,Pull,0.694,86.1,Slider
+20,6/3/2022,DET,Detroit Tigers,Home,"Rodriguez, Elvin",104.2,34,378,Opposite,1.226,94.4,4-Seam Fastball
+21,6/4/2022,DET,Detroit Tigers,Home,"Brieske, Beau",106.4,31,378,Opposite,1.244,95.3,4-Seam Fastball
+22,6/7/2022,MIN,Minnesota Twins,Away,"Sands, Cole",107.7,31,431,Straightaway,0.910,93,4-Seam Fastball
+23,6/11/2022,CHC,Chicago Cubs,Home,"Swarmer, Matt",107.3,41,383,Pull,1.329,89.7,4-Seam Fastball
+24,6/11/2022,CHC,Chicago Cubs,Home,"Swarmer, Matt",115.5,18,431,Pull,0.473,90.7,4-Seam Fastball
+25,6/15/2022,TB,Tampa Bay Rays,Home,"McClanahan, Shane",104.1,24,364,Opposite,0.983,84,Curveball
+26,6/22/2022,TB,Tampa Bay Rays,Away,"Baz, Shane",99.9,34,396,Pull,0.936,86.2,Slider
+27,6/22/2022,TB,Tampa Bay Rays,Away,"Poche, Colin",109,41,406,Pull,1.21,75.2,Curveball
+28,6/26/2022,HOU,Houston Astros,Home,"Martinez, Seth",112,20,417,Pull,0.63,80.2,Slider
+29,6/29/2022,OAK,Oakland Athletics,Home,"Irvin, Cole",111.3,26,429,Pull,0.869,90.7,Sinker
+30,7/6/2022,PIT,Pittsburgh Pirates,Away,"Banuelos, Manny",114.7,24,419,Pull,0.954,93.7,Sinker
+31,7/14/2022,CIN,Cincinnati Reds,Home,"Hoffman, Jeff",112,23,435,Straightaway,0.708,94.9,4-Seam Fastball
+32,7/16/2022,BOS,Boston Red Sox,Home,"Pivetta, Nick",102.6,26,401,Pull,0.744,85.6,Slider
+33,7/16/2022,BOS,Boston Red Sox,Home,"Ort, Kaleb",108.5,26,444,Straightaway,0.686,86.4,Slider
+34,7/21/2022,HOU,Houston Astros,Away,"Bielak, Brandon",111,33,410,Pull,1.189,93.6,Sinker
+35,7/22/2022,BAL,Baltimore Orioles,Away,"Wells, Tyler",108.6,26,436,Straightaway,0.737,93.9,4-Seam Fastball
+36,7/22/2022,BAL,Baltimore Orioles,Away,"Wells, Tyler",113.5,25,465,Straightaway,0.686,87.4,Changeup
+37,7/24/2022,BAL,Baltimore Orioles,Away,"Kremer, Dean",111.1,31,456,Pull,0.866,75.6,Curveball
+38,7/26/2022,NYM,New York Mets,Away,"Walker, Taijuan",112.1,29,423,Opposite,1.018,96.6,4-Seam Fastball
+39,7/28/2022,KC,Kansas City Royals,Home,"Barlow, Scott",109.6,35,431,Straightaway,1.039,95.4,4-Seam Fastball
+40,7/29/2022,KC,Kansas City Royals,Home,"Bubic, Kris",110.2,29,449,Pull,0.825,81.4,Changeup
+41,7/29/2022,KC,Kansas City Royals,Home,"Kowar, Jackson",105.1,29,370,Opposite,1.202,85.9,Changeup
+42,7/30/2022,KC,Kansas City Royals,Home,"Heasley, Jonathan",105.2,22,364,Opposite,0.897,95,4-Seam Fastball
+43,8/1/2022,SEA,Seattle Mariners,Home,"Gonzales, Marco",105.5,29,420,Straightaway,0.846,87.4,Cutter
+44,8/8/2022,SEA,Seattle Mariners,Away,"Borucki, Ryan",107.7,23,423,Straightaway,0.624,88.6,Slider
+45,8/10/2022,SEA,Seattle Mariners,Away,"Murfee, Penn",105.2,32,412,Pull,0.973,80.1,Slider
+46,8/12/2022,BOS,Boston Red Sox,Away,"Eovaldi, Nathan",113.8,31,429,Pull,1.106,93,4-Seam Fastball
+47,8/22/2022,NYM,New York Mets,Home,"Scherzer, Max",109.6,26,383,Opposite,1.144,95.7,4-Seam Fastball
+48,8/23/2022,NYM,New York Mets,Home,"Walker, Taijuan",115.9,26,453,Pull,0.869,94.7,Sinker
+49,8/26/2022,OAK,Oakland Athletics,Away,"Sears, JP",109,31,427,Straightaway,0.974,78.9,Slider
+50,8/29/2022,LAA,Los Angeles Angels,Away,"Tepera, Ryan",111.1,34,434,Straightaway,1.046,81.3,Slider
+51,8/30/2022,LAA,Los Angeles Angels,Away,"Mayers, Mike",107.5,36,378,Opposite,1.361,95.4,4-Seam Fastball
+52,9/3/2022,TB,Tampa Bay Rays,Away,"Adam, Jason",103.5,26,392,Opposite,0.842,90.3,Changeup
+53,9/4/2022,TB,Tampa Bay Rays,Away,"Armstrong, Shawn",115.3,30,450,Pull,0.997,94.4,Sinker
+54,9/5/2022,MIN,Minnesota Twins,Home,"Megill, Trevor",109.6,34,404,Pull,1.203,87.9,Slider
+55,9/7/2022,MIN,Minnesota Twins,Home,"Varland, Louie",102.1,28,374,Pull,1.019,85.3,Changeup
+56,9/13/2022,BOS,Boston Red Sox,Away,"Pivetta, Nick",109.7,24,383,Opposite,1.045,76.4,Knuckle Curve
+57,9/13/2022,BOS,Boston Red Sox,Away,"Whitlock, Garrett",100.5,35,389,Pull,1.027,86.5,Slider
+58,9/18/2022,MIL,Milwaukee Brewers,Away,"Alexander, Jason",111.6,35,414,Opposite,1.208,92.3,Sinker
+59,9/18/2022,MIL,Milwaukee Brewers,Away,"Perdomo, Luis",110.3,30,443,Pull,0.891,87,Slider
+60,9/20/2022,PIT,Pittsburgh Pirates,Home,"Crowe, Wil",111.6,24,430,Pull,0.778,95.3,Sinker
+61,9/28/2022,TOR,Toronto Blue Jays,Away,"Mayza, Tim",117.4,22,394,Pull,1.111,94.5,Sinker
+62,10/4/2022,TEX,Texas Rangers,Away,"Tinoco, Jesus",100.2,35,391,Pull,1.001,88.4,Slider

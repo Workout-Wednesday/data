@@ -1,0 +1,54 @@
+﻿{
+    "data": [
+        {
+            "Product": "Blue Bull",
+            "Unit Cost": 10,
+            "Sold Items": 908
+        },
+        {
+            "Product": "Fantazzy",
+            "Unit Cost": 36,
+            "Sold Items": 95
+        },
+        {
+            "Product": "Pepsini",
+            "Unit Cost": 53,
+            "Sold Items": 50
+        },
+        {
+            "Product": "Spriteez",
+            "Unit Cost": 25,
+            "Sold Items": 58
+        },
+        {
+            "Product": "Mountain Burst",
+            "Unit Cost": 68,
+            "Sold Items": 115
+        },
+        {
+            "Product": "Dr. Popper",
+            "Unit Cost": 96,
+            "Sold Items": 63
+        },
+        {
+            "Product": "Lucky 7's Up",
+            "Unit Cost": 80,
+            "Sold Items": 105
+        },
+        {
+            "Product": "Bubba-Cola",
+            "Unit Cost": 5,
+            "Sold Items": 1539
+        },
+        {
+            "Product": "Monsta NRG",
+            "Unit Cost": 15,
+            "Sold Items": 633
+        },
+        {
+            "Product": "Root Brew",
+            "Unit Cost": 65,
+            "Sold Items": 89
+        }
+    ]
+}
